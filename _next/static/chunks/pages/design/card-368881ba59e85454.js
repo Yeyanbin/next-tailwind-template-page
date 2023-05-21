@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[629],{8084:function(n,i,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/design/card",function(){return u(9951)}])},9951:function(n,i,u){"use strict";u.r(i);var e=u(5893);let t=()=>(0,e.jsx)("div",{children:"this is card page"});i.default=t}},function(n){n.O(0,[774,888,179],function(){return n(n.s=8084)}),_N_E=n.O()}]);
